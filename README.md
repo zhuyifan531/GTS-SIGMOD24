@@ -1,4 +1,4 @@
-# GTS: GPU-based Tree Index for Fast Similarity Search
+# GTS: GPU-based Tree Index for Fast Similarity Search (SIGMOD 24)
 
 ## Introduction
 
